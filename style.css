@@ -1,0 +1,298 @@
+h1{
+text-align:center;
+}
+
+#picture{
+border: 2px solid red;
+width: 400px;
+height: 400px;
+margin: 0 auto;
+padding:20px;
+background-color: blue;
+border-radius: 40px;
+bor
+}
+
+
+#image{
+width:100%;
+}
+
+#form{
+    border: 2px solid red;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    padding:40px;
+    background-color: pink;
+    border-radius: 40px;
+}
+
+#p1{
+    color: yellow;
+}
+
+#p2{
+color: tomato;
+}
+
+.maga{
+
+padding:20px;
+font-weight: bold;
+
+}
+
+.border{
+border-radius: 50%
+}
+
+.image{
+    
+    margin: auto;
+    width: fit-content;
+}
+
+
+#div1{
+    background-color: thistle;
+    display:flex;
+        }
+
+    #hobbies{
+color:red;
+
+    }
+    #title{
+text-align: center;
+    }
+
+    .div2{
+background-color: silver;
+padding: 10px;
+font-weight: bold;
+    }
+
+    Body{
+background-color: yellowgreen;
+font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .header1{
+        font-style: italic;
+        font-size: 2rem;
+        text-align: left;
+        text-transform: uppercase;
+                 }
+          
+.d1:link{
+color: red;
+text-decoration: none;
+}
+
+.d1:visited{
+    color:white;
+    }
+    
+    .d1:hover{
+        color:brown;
+        }
+
+    .img{
+        border: 10px solid red;
+        border-radius: 50%;
+    }
+
+    .a1:link{
+color:red;
+text-decoration:none;
+}
+
+.a1:visited{
+    color:blue;
+    }
+
+    .a1:hover{
+        color:black;
+        font-size:1.5rem;
+        font-weight: bold;
+        }
+
+        .a2:link{
+            color:brown;
+            text-decoration: none;
+            }
+            
+            .a2:visited{
+                color:white;
+                }
+            
+                .a2:hover{
+                    color:pink;
+                    font-size:1.5rem;
+                    font-weight: bold;
+                    }
+
+.hobbies{
+color:red
+}
+
+.menu a{
+text-decoration:none;
+font-size:1.5rem;
+
+
+}
+
+.menu a:hover{
+color:red
+}
+
+.pinfo{
+    color:purple;
+    font-size:2rem;
+    font-style: italic;
+}
+.edu{
+color:red;
+font-size:2rem;
+font-style: bold;
+}
+
+.market{
+    color:red
+}
+
+.googlesearch{
+background-color:white;
+font-family:Arial, Helvetica, sans-serif
+}
+
+.g{
+    color:#4285F4;
+}
+
+.o1{
+    color:#EA4335;
+}
+
+.o2{
+    color:#FBBC05;
+}
+
+.l{
+    color:#34A853;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif
+
+
+}
+
+.searchbar{
+width: 50%;
+height:2rem;
+margin:0 auto;
+}
+
+.searchbar input{
+height: 50px;
+border-radius: 25px;
+
+}
+
+.googleheader{
+    margin-top:50px;
+    font-size:80px;
+    margin-bottom:30px;
+}
+
+.flex, .para, .para2 {
+text-align: center;    
+}
+
+input{
+  padding: 10px;  
+}
+
+.para, .para2{
+    
+    margin-top:0px;
+    margin-bottom: 20px;
+}
+
+.para2 a{
+    text-decoration:none;
+}
+
+.para2 a:hover{
+    text-decoration:underline;
+}
+
+.para a{
+    text-decoration:none;
+}
+
+.para a:hover{
+    text-decoration:underline;
+}
+
+.head1{
+   text-align: right;
+   padding-right:20px;  
+   
+}
+
+.texttop, .c1{ 
+ text-decoration:none;
+}
+
+
+.texttop:hover{ 
+    text-decoration:underline;
+   }
+
+   .c1:hover{ 
+    text-decoration:underline;
+   }
+
+.ck {
+  border-radius:50%;
+  width:32px;
+  height:34px;
+  margin-top: 10px;
+  
+}
+
+.footer{
+background-color: #F2F2F2;
+
+
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.container1{
+    background-color: #F2F2F2;  
+    padding:10px;
+ 
+    }
+
+.container2{
+    background-color: #F2F2F2;
+    border:1px solid #F2F2F2;
+    padding:10px;
+        }
+    
+
+
+
+
+
+
+
+
